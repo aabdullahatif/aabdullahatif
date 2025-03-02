@@ -5,7 +5,6 @@ I'm a driven and passionate computer science student, eager to graduate soon and
 🔍 **Currently Exploring:**
 - AI/ML Engineering
 -Software Engineering
-- AI Agent Development
 - Data Science
 
 🌐 **Interests:**
