@@ -4,9 +4,7 @@ I am a highly motivated and ethical cybersecurity professional with strong probl
 In addition to cybersecurity, I am fascinated by how personal data can be exploited and am dedicated to using my skills to defend against cyberattacks and design secure, user-centric solutions.
 
 **Currently Exploring**
-IT Support
-
-Artificial Intelligence
+IT Support And Artificial Intelligence
 
 **Interests**
 I am deeply interested in artificial intelligence and machine learning, always looking for opportunities to apply these technologies to create innovative, intelligent solutions. My goal is to enhance automation, optimize decision-making, and improve user experiences through smart, scalable software.
