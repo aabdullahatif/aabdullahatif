@@ -1,6 +1,6 @@
 **👋 Hi, I'm Muhammad Abdullah Atif!**
 
-I'm a driven and passionate computer science student, eager to graduate soon and delve into the world of software engineering. With a solid foundation in Java, JavaScript, C/C++, and PHP, I thrive in building high-performance, user-centric applications. I'm particularly skilled in data structures and algorithms, which enables me to optimize and scale solutions effectively.
+I am a highly motivated and ethical cybersecurity professional with strong problem-solving abilities, excellent customer service skills, and effective time management. I am driven by a commitment to honesty, integrity, and the highest ethical standards in my work. My passion for cybersecurity stems from a deep desire to protect individuals and organizations from malicious threats, safeguard sensitive information, and contribute to creating safer digital environments. I am fascinated by the ways personal data can be exploited and am dedicated to using my skills to help defend against cyber attacks and strengthen the security posture of the organizations I serve.
 
 🔍 **Currently Exploring:**
 - AI/ML Engineering
